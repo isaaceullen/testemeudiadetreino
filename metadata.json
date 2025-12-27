@@ -1,0 +1,7 @@
+{
+  "name": "Meu Dia de Treino SaaS",
+  "description": "Plataforma de gestão de treinos privada com integração Supabase.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
